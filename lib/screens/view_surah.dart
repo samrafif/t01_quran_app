@@ -78,7 +78,7 @@ class _ViewSurahState extends State<ViewSurah> {
       floatingActionButton: Card(
         elevation: 4,
         child: Container(
-          width: 400,
+          width: 350,
           padding: EdgeInsets.all(18.0),
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(20),
@@ -273,6 +273,7 @@ class _ViewSurahState extends State<ViewSurah> {
                 }
               },
             ),
+            SizedBox(height: 150,)
           ],
         ),
       ),
