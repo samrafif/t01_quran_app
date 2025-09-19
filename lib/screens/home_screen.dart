@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
         padding: const EdgeInsets.all(8.0),
         child: Column(
           children: [
-            const Text("Halo Quran, anjay"),
+            const Text("Halo Quran, :3"),
             Row(
               mainAxisAlignment: MainAxisAlignment.end,
               children: [
